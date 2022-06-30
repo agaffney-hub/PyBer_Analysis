@@ -1,11 +1,12 @@
 # PyBer_Analysis
 ## Overview of the analysis:
-The purpose of this analysis is to see which city types are the most successful with this driving service: Rural, Urban or Suburban.
+The purpose of this analysis is to see which city types are the most successful with this driving service: Rural, Urban or Suburban, as well as see where areas of improvement can be worked on in this company throughout the years of data provided about different rides, drivers, fares and more.
 
 ## Results:
 I wasn't able to get some lines of code to function properly, but I still was able to gather enough information to see that driver-wise, being a driver in the rural areas is more beneficial based on average fare price per ride, as well as average per trip driver fare received.
 <img width="513" alt="Screen Shot 2022-06-29 at 11 21 42 PM" src="https://user-images.githubusercontent.com/70240501/176607027-6d29e1ba-bce3-42dc-b40a-1c5240f20fc1.png">
 <img width="518" alt="Screen Shot 2022-06-29 at 11 21 59 PM" src="https://user-images.githubusercontent.com/70240501/176607189-f3ec8584-360d-4bdf-b23a-daf5a9013fa6.png">
+
 Though this is an interesting statistic when you take into account that Urban drives are the most common request among users in the platform.
 <img width="589" alt="Screen Shot 2022-06-29 at 11 21 52 PM" src="https://user-images.githubusercontent.com/70240501/176607360-8eaa961f-3cf1-4b8b-a0fd-3e811f80e26d.png">
 
